@@ -5,4 +5,4 @@
 + CSS 3
 + JS
 
-  Can you view [My exam ITEA](https://nuranaayitea.github.io/Exam_ITEA/)
+Can you view [My exam ITEA](https://nuranaayitea.github.io/Exam_ITEA/)
